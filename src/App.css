@@ -1,0 +1,64 @@
+html {
+  font-size: 16px;
+}
+
+.App {
+  text-align: center;
+  margin-bottom: 0.5em;
+}
+
+.blueButton {
+  margin: 20px;
+  background: #1976d2;
+  background-color: #1976d2;
+  color: white;
+  padding: 10px;
+  border: none;
+}
+
+.blueButton:hover {
+  background-color: #145fab;
+}
+
+.greenButton {
+  margin: 20px;
+  background: #287e38;
+  background-color: #287e38;
+  color: white;
+  padding: 10px;
+  border: none;
+}
+
+.greenButton:hover {
+  background-color: #1c5a27;
+}
+
+.orangeButton {
+  margin: 20px;
+  background: #c17d11;
+  background-color: #c17d11;
+  color: white;
+  padding: 10px;
+  border: none;
+}
+
+.orangeButton:hover {
+  background-color: #9b650d;
+}
+
+.greyButton {
+  margin: 8px;
+  background: #ffffff;
+  background-color: #ffffff;
+  color: #545454;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 8px;
+  padding-right: 8px;
+  border: none;
+  margin-bottom: 24px;
+}
+
+.greyButton:hover {
+  color: #151515;
+}
